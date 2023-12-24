@@ -30,7 +30,7 @@ Este é um projeto de agenda virtual desenvolvido em Django.
 
 ### Windows
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/agenda-virtual.git`
+1. Clone o repositório: `git clone https://github.com/thaleson/Agenda-virtual-em-django.git`
 2. Entre no diretório do projeto: `cd agenda-virtual`
 3. Crie e ative um ambiente virtual: `python -m venv env` e `.\env\Scripts\activate`
 4. Instale as dependências: `pip install -r requirements.txt`
@@ -42,7 +42,7 @@ Acesse a aplicação em [http://localhost:8000/](http://localhost:8000/) e faça
 
 ### Linux/Mac
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/agenda-virtual.git`
+1. Clone o repositório: `git clone https://github.com/thaleson/Agenda-virtual-em-django.git`
 2. Entre no diretório do projeto: `cd agenda-virtual`
 3. Crie e ative um ambiente virtual: `python -m venv env` e `source env/bin/activate`
 4. Instale as dependências: `pip install -r requirements.txt`
